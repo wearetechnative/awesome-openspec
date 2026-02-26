@@ -88,7 +88,7 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 
 ## Contributing
 
-Contributions welcome! Please read the contribution guidelines first.
+Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
