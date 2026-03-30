@@ -12,8 +12,9 @@ Thank you for your interest in contributing!
 
 - Make sure the resource is related to OpenSpec or Spec-Driven Development
 - Use the format: `[Name](URL) - Short description.`
+- Keep the entire line under 150 characters so it renders on one line on GitHub
 - Keep descriptions concise (one sentence)
-- Add new entries at the end of the relevant section
+- Add new entries in alphabetical order within the relevant section
 - Check that links are working
 
 ## What to Add
