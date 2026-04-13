@@ -79,6 +79,7 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 - [claude-plugin-design](https://github.com/joestump/claude-plugin-design) - Claude Code plugin for architecture governance with ADRs.
 - [ClawSpec](https://github.com/bytegh/clawspec) - OpenClaw plugin bringing OpenSpec workflows into chat with background execution.
 - [Flokay](https://github.com/pacaplan/flokay) - Claude Code and Cursor plugin with plan-then-implement workflow and subagent dispatch.
+- [intellij-openspec](https://github.com/johnnyblabs/intellij-openspec) - IntelliJ IDEA plugin for OpenSpec, available on the JetBrains Marketplace.
 - [opencode-plugin-openspec](https://github.com/Octane0411/opencode-plugin-openspec) - OpenCode plugin with Architect mode for spec-only writes.
 - [openspec-for-copilot](https://github.com/atman-33/openspec-for-copilot) - VS Code extension integrating OpenSpec with GitHub Copilot Chat.
 - [openspec-mcp](https://github.com/Lumiaqian/openspec-mcp) - MCP server exposing the OpenSpec CLI as tools, with a Kanban web dashboard.
@@ -110,6 +111,8 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 - [Dev.to Intro](https://dev.to/webdeveloperhyper/how-to-make-ai-follow-your-instructions-more-for-free-openspec-2c85) - Getting started tutorial.
 - [OpenSpec + Beads](https://github.com/cameronsjo/spec-compare/blob/main/docs/cheatsheet-beads-openspec.md) - Cheatsheet for OpenSpec with Beads.
 - [OpenSpec on IntentDriven](https://intent-driven.dev/knowledge/openspec/) - IntentDriven development resource with a focus on OpenSpec.
+- [OpenSpec-practise](https://github.com/ForceInjection/OpenSpec-practise) - Practical guide to OpenSpec v1.3.0 with SDD examples. (Chinese with English translation)
+- [openspec-tutorial](https://github.com/aiyinluya/openspec-tutorial) - Beginner tutorial for OpenSpec. (Taiwanese)
 - [spec-compare](https://github.com/cameronsjo/spec-compare) - Comparison of six SDD tools with decision frameworks and scoring matrices.
 
 ## Community

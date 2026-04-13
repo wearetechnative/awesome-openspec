@@ -1,0 +1,14 @@
+{
+  "name": "awesome-openspec",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "remark README.md"
+  },
+  "devDependencies": {
+    "awesome-lint": "^2.2.3",
+    "remark-cli": "^12.0.1",
+    "unified-lint-rule": "^3.0.0",
+    "unist-util-visit": "^5.0.0"
+  }
+}
