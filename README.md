@@ -93,6 +93,7 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 - [openspec-schemas](https://github.com/intent-driven-dev/openspec-schemas) - Custom workflow schemas including minimalist and event-driven templates.
 - [openspec-schemas by kmhalvin](https://github.com/kmhalvin/openspec-schemas) - Subagent-driven development and QRSPI multi-phase reasoning schemas.
 - [openspec-spec-driven-superpowers](https://github.com/Veath/openspec-spec-driven-superpowers) - Adds superpowers-style planning and readiness gates.
+- [SuperSpec](https://github.com/danielhanold/superspec) - Drop-in OpenSpec schema integrating Superpowers execution discipline for traceable idea-to-TDD-verified-code workflows.
 
 ## GitHub Actions
 
@@ -104,6 +105,7 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 - [Launch Video](https://youtu.be/N-MftbmnmMo) - An introduction to OpenSpec by Tabish Bidiwale.
 - [OpenSpec Changes Everything / No More Vibe Coding](https://www.youtube.com/watch?v=5oUmpdpbejk) - Full tutorial on OpenSpec workflow.
 - [OpenSpec: NEW Toolkit Ends Vibe Coding!](https://www.youtube.com/watch?v=gHkdrO6IExM) - Full tutorial by WorldofAI covering the complete workflow.
+- [OpenSpec Will Change How You Vibe Code Forever](https://www.youtube.com/watch?v=nFq4POtqom4) - Overview of OpenSpec and spec-driven development by Sean Kochel.
 
 ## Articles & Tutorials
 
