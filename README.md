@@ -93,6 +93,7 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 - [openspec-schemas](https://github.com/intent-driven-dev/openspec-schemas) - Custom workflow schemas including minimalist and event-driven templates.
 - [openspec-schemas by kmhalvin](https://github.com/kmhalvin/openspec-schemas) - Subagent-driven development and QRSPI multi-phase reasoning schemas.
 - [openspec-spec-driven-superpowers](https://github.com/Veath/openspec-spec-driven-superpowers) - Adds superpowers-style planning and readiness gates.
+- [rapoport-prose](https://github.com/rapoport-studio/rapoport.studio/tree/main/openspec/schemas/rapoport-prose) - Prose-style schema with proposal + design + tasks + verification artifacts, no `specs/` deltas. Used by Rapoport Studio.
 - [SuperSpec](https://github.com/danielhanold/superspec) - Drop-in OpenSpec schema integrating Superpowers execution discipline for traceable idea-to-TDD-verified-code workflows.
 
 ## GitHub Actions
